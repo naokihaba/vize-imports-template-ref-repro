@@ -12,8 +12,8 @@ importers:
         specifier: 7.1.0-beta
         version: 7.1.0-beta
       vize:
-        specifier: 0.737.0
-        version: 0.737.0(vue@3.5.45(typescript@7.1.0-beta))
+        specifier: 0.778.0
+        version: 0.778.0(vue@3.5.45(typescript@7.1.0-beta))
       vue:
         specifier: 3.5.45
         version: 3.5.45(typescript@7.1.0-beta)
@@ -324,60 +324,60 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@vizejs/native-darwin-arm64@0.737.0':
-    resolution: {integrity: sha512-b5/9n1KNCP+JfDj4zlVQySQsj39gC1OWFagOI3A3c/+GowSCDHIL8ih8bhLlBnmJQHiAFK3XTiaiHWUnRWXW8g==}
+  '@vizejs/native-darwin-arm64@0.778.0':
+    resolution: {integrity: sha512-18oHyE79lD50lVbRMeLqtHL1LHt5i+RLjfMY2dwNejG0yq0cpQLDDe+xMOS8D1Q10J7RLSZwb7/h11WVRBZwDA==}
     engines: {node: '>=22'}
     cpu: [arm64]
     os: [darwin]
 
-  '@vizejs/native-darwin-x64@0.737.0':
-    resolution: {integrity: sha512-v4EBVufC0r4qXvEp6VM7sUcGS1gHscwMjPvGdFLBwf4qqG5h6K0prHn0n7t7SSsssFqE2SDvDLu6Lm8hSMnpFg==}
+  '@vizejs/native-darwin-x64@0.778.0':
+    resolution: {integrity: sha512-8BO+oJgl8DQvK5UD13DpiNWqamgU89FYTkviqCg60kRk98LgPH8MqkqA2PSplw2QsnvDRqug/lSwGLiCrwCoIQ==}
     engines: {node: '>=22'}
     cpu: [x64]
     os: [darwin]
 
-  '@vizejs/native-linux-arm64-gnu@0.737.0':
-    resolution: {integrity: sha512-h/0GDHZBMwAMbVKYqgKoG5FEPAB9EkvUppG0H6fHDLsvDMftFsFOWr0w6W6++sTeBwbqr9GYNom5JL5SVUqhGg==}
+  '@vizejs/native-linux-arm64-gnu@0.778.0':
+    resolution: {integrity: sha512-twTCcBif7gIbllnMXRQvyyhG4guPVAmgS/H/gPCN8hA1oaLon5bQchuy1WsXzjhCLUz5S2Cday2fYHPrJsmdRQ==}
     engines: {node: '>=22'}
     cpu: [arm64]
     os: [linux]
     libc: [glibc]
 
-  '@vizejs/native-linux-arm64-musl@0.737.0':
-    resolution: {integrity: sha512-bvzEm6X29KP7Jb4EMJ32DPtzunPlx8GozHWAYE3ggQSOWEXyozdM+Fs+aFoLs54JGtlpssGWqC9xPwtNkfqdaA==}
+  '@vizejs/native-linux-arm64-musl@0.778.0':
+    resolution: {integrity: sha512-Zd4ZFkEwVc8Iw8uebGTy7ZPl5cAjej2YXF0IWqabGqB0Lp1Bml7bkdM+er3qrxHDLGZfTAsrQnfKWyNTUfWA9w==}
     engines: {node: '>=22'}
     cpu: [arm64]
     os: [linux]
     libc: [musl]
 
-  '@vizejs/native-linux-x64-gnu@0.737.0':
-    resolution: {integrity: sha512-mk3ss1xvbKgQIInYODbAMyrblrfu4xRk8E56GglXmHPWZ9aH9KaXSFgnEcP/v2lMvMIA+1QJUbwTntV5/eHgfw==}
+  '@vizejs/native-linux-x64-gnu@0.778.0':
+    resolution: {integrity: sha512-VYJLGC2A491fTiLZ0EbVJj4wkFJxP1ppzDuEu93xeeDJFObOjCuxpIIJmjCez+3YQyPoLclPE+BzThhyW2aVNg==}
     engines: {node: '>=22'}
     cpu: [x64]
     os: [linux]
     libc: [glibc]
 
-  '@vizejs/native-linux-x64-musl@0.737.0':
-    resolution: {integrity: sha512-/d3vttgNLs3CjTvI3GR4S7NiimPfADw0Er0E3vXZ7hQAmdeqNlFVZQuve0xMhmZ4WuQC3FUejVkuFlxPgDQhZA==}
+  '@vizejs/native-linux-x64-musl@0.778.0':
+    resolution: {integrity: sha512-79AcTLe7CUhqVkrtgkBAnUE9GoBstRYlkNn6jh0Z2fLyjoKMS7y6iuyZ0h9XDZ0mS01ur9PoJwsQvOqMnwCyUg==}
     engines: {node: '>=22'}
     cpu: [x64]
     os: [linux]
     libc: [musl]
 
-  '@vizejs/native-win32-arm64-msvc@0.737.0':
-    resolution: {integrity: sha512-54nJqt+HBkEENeBUVfqjldCVpOqtc2ahKIzVVclkKlf/VgR5dHdnwU8y9T8qm4w3PeI6A+49KFCS6F6+RNdyrw==}
+  '@vizejs/native-win32-arm64-msvc@0.778.0':
+    resolution: {integrity: sha512-D7wyfv8e0Bwep08psVROhdWoyoGoBdXFKch8q0TUhd8OSosAiFIUe7MUqmKgdFJ0zY4PoRTF2uz0vPXb0XWwwg==}
     engines: {node: '>=22'}
     cpu: [arm64]
     os: [win32]
 
-  '@vizejs/native-win32-x64-msvc@0.737.0':
-    resolution: {integrity: sha512-BQbMqCJsvA3INEhCT13q7YgmCOXdNrJN1jqvcv6jqTeFttuocL9SQfQ2FnaifVLvOWywLgRCkII6ZF0RPlRUJw==}
+  '@vizejs/native-win32-x64-msvc@0.778.0':
+    resolution: {integrity: sha512-hxgfQMfjnpqHGC1juVLDkcEnqZ/Ub7//kM9HRJ0sJ4HrNuuMrZ6kjnaqPlBhXeDRQrshRchIHpO1hSj+LoMF8Q==}
     engines: {node: '>=22'}
     cpu: [x64]
     os: [win32]
 
-  '@vizejs/native@0.737.0':
-    resolution: {integrity: sha512-207xQIUrnG4n0YljZpiLoPKlKKzv8mY8UH2tx4r0VN8rgdNG+0ucVhykwEQlsbyXunrP4Tjv8/h9rvljlDA7tw==}
+  '@vizejs/native@0.778.0':
+    resolution: {integrity: sha512-NfJPeKU2hq5xO9SO9IjdK2OGRNU5mEief30/KmOdgSvarii2aCo3DpAN3xFM9Xog3xd0tirgYO6fBUxKxIzesw==}
     engines: {node: '>=22'}
 
   '@vue/compiler-core@3.5.45':
@@ -445,8 +445,8 @@ packages:
     engines: {node: '>=16.20.0'}
     hasBin: true
 
-  vize@0.737.0:
-    resolution: {integrity: sha512-mvEPXNgHPlh+C3r51Ia4U0iZqdqojW0Md3IGIr/CLblNj+NSfXLvEEr9DIb1odFzSzIRRiRhbWBg4Bw1ptTwkg==}
+  vize@0.778.0:
+    resolution: {integrity: sha512-rx3hYYSW1WZ1No7kmq1ixy9d+FeJZAk5d5Ok1DcHDh2+i7XpSp9TyhYR7VGg4EOhncxujNJbB1vBJ98arF00wQ==}
     engines: {node: '>=22'}
     hasBin: true
     peerDependencies:
@@ -621,40 +621,40 @@ snapshots:
   '@typescript/typescript-win32-x64@7.1.0-beta':
     optional: true
 
-  '@vizejs/native-darwin-arm64@0.737.0':
+  '@vizejs/native-darwin-arm64@0.778.0':
     optional: true
 
-  '@vizejs/native-darwin-x64@0.737.0':
+  '@vizejs/native-darwin-x64@0.778.0':
     optional: true
 
-  '@vizejs/native-linux-arm64-gnu@0.737.0':
+  '@vizejs/native-linux-arm64-gnu@0.778.0':
     optional: true
 
-  '@vizejs/native-linux-arm64-musl@0.737.0':
+  '@vizejs/native-linux-arm64-musl@0.778.0':
     optional: true
 
-  '@vizejs/native-linux-x64-gnu@0.737.0':
+  '@vizejs/native-linux-x64-gnu@0.778.0':
     optional: true
 
-  '@vizejs/native-linux-x64-musl@0.737.0':
+  '@vizejs/native-linux-x64-musl@0.778.0':
     optional: true
 
-  '@vizejs/native-win32-arm64-msvc@0.737.0':
+  '@vizejs/native-win32-arm64-msvc@0.778.0':
     optional: true
 
-  '@vizejs/native-win32-x64-msvc@0.737.0':
+  '@vizejs/native-win32-x64-msvc@0.778.0':
     optional: true
 
-  '@vizejs/native@0.737.0':
+  '@vizejs/native@0.778.0':
     optionalDependencies:
-      '@vizejs/native-darwin-arm64': 0.737.0
-      '@vizejs/native-darwin-x64': 0.737.0
-      '@vizejs/native-linux-arm64-gnu': 0.737.0
-      '@vizejs/native-linux-arm64-musl': 0.737.0
-      '@vizejs/native-linux-x64-gnu': 0.737.0
-      '@vizejs/native-linux-x64-musl': 0.737.0
-      '@vizejs/native-win32-arm64-msvc': 0.737.0
-      '@vizejs/native-win32-x64-msvc': 0.737.0
+      '@vizejs/native-darwin-arm64': 0.778.0
+      '@vizejs/native-darwin-x64': 0.778.0
+      '@vizejs/native-linux-arm64-gnu': 0.778.0
+      '@vizejs/native-linux-arm64-musl': 0.778.0
+      '@vizejs/native-linux-x64-gnu': 0.778.0
+      '@vizejs/native-linux-x64-musl': 0.778.0
+      '@vizejs/native-win32-arm64-msvc': 0.778.0
+      '@vizejs/native-win32-x64-msvc': 0.778.0
 
   '@vue/compiler-core@3.5.45':
     dependencies:
@@ -778,9 +778,9 @@ snapshots:
       '@typescript/typescript-win32-arm64': 7.1.0-beta
       '@typescript/typescript-win32-x64': 7.1.0-beta
 
-  vize@0.737.0(vue@3.5.45(typescript@7.1.0-beta)):
+  vize@0.778.0(vue@3.5.45(typescript@7.1.0-beta)):
     dependencies:
-      '@vizejs/native': 0.737.0
+      '@vizejs/native': 0.778.0
       oxc-transform: 0.157.0
     optionalDependencies:
       '@typescript/typescript-darwin-arm64': 7.0.2
